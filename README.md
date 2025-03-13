@@ -16,14 +16,21 @@ I am a passionate developer and content creator, focusing on game development an
 - 💻 Blockchain Developer
 - 💻 Backend Developer
 - 🌐 Full-stack Web Developer
-- 🎮 Game Developer specializing in Unreal Engine
+- 🔭 Currently working on blockchain projects and web applications
+- 🌱 Learning new technologies in GameDev and Web3
+- 🤔 Always open to learning new technologies and frameworks
+- 💬 Ask me about blockchain development, fintech and web development
+- 📫 You can reach me via Telegram: @slaweekq
+- 😄 Interests: programming, cryptocurrencies
 <!-- - 💪 Supporter Community on [Patreon](https://www.patreon.com/0xSlaweekq) -->
 
-<!-- <p align="center">
+<!--
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,rabbitmq,graphql,apollo,redis,ts,docker,nginx" />
   </a>
 </p> -->
+
 
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,postgres,rabbitmq,graphql,apollo,redis,ts,docker,nginx)](https://skillicons.dev)
@@ -70,18 +77,3 @@ Experienced in:
 - 💖 [Support me on Patreon](https://www.patreon.com/0xSlaweekq)
 
 Thanks for stopping by! Feel free to check out my projects and connect with me. Let's create something amazing together! 🚀
-
-<!--
-**0xSlaweekq/0xSlaweekq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
